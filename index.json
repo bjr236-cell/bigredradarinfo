@@ -1,0 +1,96 @@
+{
+ "available": [
+  "FA23",
+  "WI24",
+  "SP24",
+  "SU24",
+  "FA24",
+  "WI25",
+  "SP25",
+  "SU25",
+  "FA25",
+  "WI26",
+  "SP26",
+  "SU26",
+  "FA26",
+  "WI27",
+  "SP27"
+ ],
+ "terms": {
+  "FA23": {
+   "classes": 4564,
+   "pulled_at": "2026-11-03T20:42:36+00:00",
+   "subjects": 187
+  },
+  "FA24": {
+   "classes": 4549,
+   "pulled_at": "2026-11-03T20:34:15+00:00",
+   "subjects": 181
+  },
+  "FA25": {
+   "classes": 4459,
+   "pulled_at": "2026-11-03T20:26:02+00:00",
+   "subjects": 180
+  },
+  "FA26": {
+   "classes": 4447,
+   "pulled_at": "2026-11-03T20:17:41+00:00",
+   "subjects": 176
+  },
+  "SP24": {
+   "classes": 4524,
+   "pulled_at": "2026-11-03T20:38:43+00:00",
+   "subjects": 182
+  },
+  "SP25": {
+   "classes": 4697,
+   "pulled_at": "2026-11-03T20:30:29+00:00",
+   "subjects": 178
+  },
+  "SP26": {
+   "classes": 4568,
+   "pulled_at": "2026-11-03T20:22:11+00:00",
+   "subjects": 172
+  },
+  "SP27": {
+   "classes": 4626,
+   "pulled_at": "2026-11-03T20:13:54+00:00",
+   "subjects": 173
+  },
+  "SU24": {
+   "classes": 409,
+   "pulled_at": "2026-11-03T20:35:40+00:00",
+   "subjects": 84
+  },
+  "SU25": {
+   "classes": 435,
+   "pulled_at": "2026-11-03T20:27:30+00:00",
+   "subjects": 87
+  },
+  "SU26": {
+   "classes": 430,
+   "pulled_at": "2026-11-03T20:19:17+00:00",
+   "subjects": 92
+  },
+  "WI24": {
+   "classes": 119,
+   "pulled_at": "2026-11-03T20:39:28+00:00",
+   "subjects": 44
+  },
+  "WI25": {
+   "classes": 124,
+   "pulled_at": "2026-11-03T20:31:13+00:00",
+   "subjects": 43
+  },
+  "WI26": {
+   "classes": 120,
+   "pulled_at": "2026-11-03T20:23:00+00:00",
+   "subjects": 49
+  },
+  "WI27": {
+   "classes": 130,
+   "pulled_at": "2026-11-03T20:14:43+00:00",
+   "subjects": 49
+  }
+ }
+}
