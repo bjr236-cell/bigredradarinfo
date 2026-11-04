@@ -1,0 +1,734 @@
+{
+ "generated_from": "source/catalog.js",
+ "catalog_built": "2026-11-03",
+ "programs": [
+  {
+   "id": "col:AG",
+   "name": "Agriculture and Life Sciences (CALS)",
+   "type": "college",
+   "status": "verified",
+   "file": "programs/colleges.json"
+  },
+  {
+   "id": "col:PP",
+   "name": "Brooks School of Public Policy",
+   "type": "college",
+   "status": "verified",
+   "file": "programs/colleges.json"
+  },
+  {
+   "id": "col:PP26",
+   "name": "Brooks School of Public Policy [entering Fall 2026 and later]",
+   "type": "college",
+   "status": "verified",
+   "file": "programs/colleges.json"
+  },
+  {
+   "id": "col:EN",
+   "name": "Engineering (ENG)",
+   "type": "college",
+   "status": "verified",
+   "file": "programs/colleges.json"
+  },
+  {
+   "id": "col:AG0",
+   "name": "Agriculture and Life Sciences (CALS) [entered before Fall 2025]",
+   "type": "college",
+   "status": "unverified",
+   "file": "programs/colleges.json"
+  },
+  {
+   "id": "col:AR",
+   "name": "Architecture, Art and Planning (AAP)",
+   "type": "college",
+   "status": "unverified",
+   "file": "programs/colleges.json"
+  },
+  {
+   "id": "col:AS2",
+   "name": "Arts and Sciences (A&S) [Fall 2020 and later]",
+   "type": "college",
+   "status": "unverified",
+   "file": "programs/colleges.json"
+  },
+  {
+   "id": "col:AS1",
+   "name": "Arts and Sciences (A&S) [before Fall 2020]",
+   "type": "college",
+   "status": "unverified",
+   "file": "programs/colleges.json"
+  },
+  {
+   "id": "col:EN0",
+   "name": "Engineering (ENG) [older requirements]",
+   "type": "college",
+   "status": "unverified",
+   "file": "programs/colleges.json"
+  },
+  {
+   "id": "col:HE",
+   "name": "Human Ecology (CHE)",
+   "type": "college",
+   "status": "unverified",
+   "file": "programs/colleges.json"
+  },
+  {
+   "id": "col:IL",
+   "name": "Industrial Labor Relations (ILR)",
+   "type": "college",
+   "status": "unverified",
+   "file": "programs/colleges.json"
+  },
+  {
+   "id": "col:BU",
+   "name": "SC Johnson College of Business (SHA, DYSON)",
+   "type": "college",
+   "status": "unverified",
+   "file": "programs/colleges.json"
+  },
+  {
+   "id": "maj:AMST",
+   "name": "American Studies",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:ANSC",
+   "name": "Animal Science",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:ANTHR",
+   "name": "Anthropology",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:AEM",
+   "name": "Applied Economics and Management (Dyson)",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:BARCH",
+   "name": "Architecture (B.Arch.)",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:BIO",
+   "name": "Biological Sciences",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:BSOC",
+   "name": "Biology & Society",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:BME",
+   "name": "Biomedical Engineering",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:CHEME",
+   "name": "Chemical Engineering",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:CHEM",
+   "name": "Chemistry",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:CE",
+   "name": "Civil Engineering",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:COGST",
+   "name": "Cognitive Science",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:COMM",
+   "name": "Communication",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:CS",
+   "name": "Computer Science",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:ECON",
+   "name": "Economics",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:ECE",
+   "name": "Electrical and Computer Engineering",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:ENGL",
+   "name": "English",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:ENVS",
+   "name": "Environment & Sustainability",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:BFA",
+   "name": "Fine Arts (B.F.A.)",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:FREN",
+   "name": "French",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:GERST",
+   "name": "German Studies",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:GPHS",
+   "name": "Global & Public Health Sciences",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:GDEV",
+   "name": "Global Development",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:GOVT",
+   "name": "Government",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:HCP",
+   "name": "Health Care Policy",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:HIST",
+   "name": "History",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:HADM",
+   "name": "Hotel Administration (Nolan)",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:HD",
+   "name": "Human Development",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:ILR",
+   "name": "Industrial and Labor Relations",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:INFO",
+   "name": "Information Science (B.A. in A&S / B.S. in CALS)",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:ISST",
+   "name": "Information Science, Systems, and Technology (B.S., Engineering)",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:JWST",
+   "name": "Jewish Studies",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:MATH",
+   "name": "Mathematics",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:ME",
+   "name": "Mechanical Engineering",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:NS",
+   "name": "Nutritional Sciences",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:ORIE",
+   "name": "Operations Research and Engineering",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:PHIL",
+   "name": "Philosophy",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:PHYS",
+   "name": "Physics",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:PSYCH",
+   "name": "Psychology",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:PPBA",
+   "name": "Public Policy (B.A.)",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:PUBPOL",
+   "name": "Public Policy (B.S.)",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:SPAN",
+   "name": "Spanish",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:STSCI",
+   "name": "Statistical Science / Biometry and Statistics",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:URS",
+   "name": "Urban and Regional Studies",
+   "type": "major",
+   "status": "verified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:ASTRO",
+   "name": "Astronomy",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:AS",
+   "name": "Atmospheric Science",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:BE",
+   "name": "Biological Engineering",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:DEA",
+   "name": "Design and Environmental Analysis",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:EAS",
+   "name": "Earth and Atmospheric Sciences",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:EP",
+   "name": "Engineering Physics",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:ENV",
+   "name": "Environmental Engineering",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:FSAD",
+   "name": "Fashion Design",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:FDSC",
+   "name": "Food Science",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:LING",
+   "name": "Linguistics",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:MSE",
+   "name": "Materials Science & Engineering",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:PAM",
+   "name": "Policy Analysis and Management",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:STS",
+   "name": "Science & Technology Studies",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "maj:VIEN",
+   "name": "Viticulture and Enology",
+   "type": "major",
+   "status": "unverified",
+   "file": "programs/majors.json"
+  },
+  {
+   "id": "min:APPLIEDECON",
+   "name": "Applied Economics",
+   "type": "minor",
+   "status": "verified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:AI",
+   "name": "Artificial Intelligence",
+   "type": "minor",
+   "status": "verified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:BU",
+   "name": "Business",
+   "type": "minor",
+   "status": "verified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:CS",
+   "name": "Computer Science",
+   "type": "minor",
+   "status": "verified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:DS",
+   "name": "Data Science",
+   "type": "minor",
+   "status": "verified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:DEMOG",
+   "name": "Demography",
+   "type": "minor",
+   "status": "verified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:HISTM",
+   "name": "History",
+   "type": "minor",
+   "status": "verified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:LAWSOC",
+   "name": "Law & Society",
+   "type": "minor",
+   "status": "verified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:PAM",
+   "name": "Policy Analysis and Management (Brooks)",
+   "type": "minor",
+   "status": "verified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:PSYCH",
+   "name": "Psychology",
+   "type": "minor",
+   "status": "verified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:POLICY",
+   "name": "Public Policy (Government Dept.)",
+   "type": "minor",
+   "status": "verified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:AEROSPACE",
+   "name": "Aerospace Engineering",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:ANIMALSCIENCE",
+   "name": "Animal Science",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:APPLIEDMATH",
+   "name": "Applied Mathematics",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:ASTRO",
+   "name": "Astronomy",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:CLIMATECHANGE",
+   "name": "Climate Change",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:COGSCI",
+   "name": "Cognitive Science",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:DEA",
+   "name": "Design and Environmental Analysis",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:DBME",
+   "name": "Dyson Business Minor for Engineers",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:EAS",
+   "name": "Earth and Atmospheric Sciences",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:ECONILR",
+   "name": "Economics [ILR]",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:ECE",
+   "name": "Electrical and Computer Engineering",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:GAMEDESIGN",
+   "name": "Game Design",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:HP",
+   "name": "Health Policy",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:HD",
+   "name": "Human Development",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:INEQ",
+   "name": "Inequality Studies",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:ISST",
+   "name": "Information Science [Engineering]",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:LING",
+   "name": "Linguistics",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:MATH",
+   "name": "Mathematics",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:ORMS",
+   "name": "Operations Research and Management Science",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:PHIL",
+   "name": "Philosophy",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:ROBOTICS",
+   "name": "Robotics",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "min:SPAN",
+   "name": "Spanish",
+   "type": "minor",
+   "status": "unverified",
+   "file": "programs/minors.json"
+  },
+  {
+   "id": "uni:UNI",
+   "name": "University",
+   "type": "university",
+   "status": "unverified",
+   "file": "programs/university.json"
+  }
+ ]
+}

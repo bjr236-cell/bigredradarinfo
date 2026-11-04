@@ -1,0 +1,1557 @@
+{
+ "source": "Cornell Courses of Study 2026-27, Programs A-Z (courses.cornell.edu/programs/programs.pdf)",
+ "note": "Undergraduate majors and minors only. The catalog index was read through 'Statistics & Biometry (BS)'; any later entries (T-Z) other than the two majors listed are not included here.",
+ "summary": {
+  "major": {
+   "verified": 50,
+   "unverified": 16,
+   "missing": 24
+  },
+  "minor": {
+   "verified": 11,
+   "unverified": 21,
+   "missing": 97
+  }
+ },
+ "programs": [
+  {
+   "name": "Africana Studies (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/africana-studies-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Agricultural Sciences (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/agricultural-sciences-bs/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "American Studies (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/american-studies-ba/",
+   "status": "verified",
+   "dataset_id": "maj:AMST"
+  },
+  {
+   "name": "Animal Science (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/animal-science-bs/",
+   "status": "verified",
+   "dataset_id": "maj:ANSC"
+  },
+  {
+   "name": "Anthropology (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/anthropology-ba/",
+   "status": "verified",
+   "dataset_id": "maj:ANTHR"
+  },
+  {
+   "name": "Applied Economics and Management (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/applied-economics-management-bs/",
+   "status": "verified",
+   "dataset_id": "maj:AEM"
+  },
+  {
+   "name": "Archaeology (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/archaeology-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Architecture (BAR)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/architecture-barch/",
+   "status": "verified",
+   "dataset_id": "maj:BARCH"
+  },
+  {
+   "name": "Asian Studies (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/asian-studies-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Astronomy (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/astronomy-ba/",
+   "status": "unverified",
+   "dataset_id": "maj:ASTRO"
+  },
+  {
+   "name": "Atmospheric Sciences (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/atmospheric-science-bs/",
+   "status": "unverified",
+   "dataset_id": "maj:AS"
+  },
+  {
+   "name": "Biological Engineering (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/biological-engineering-bs/",
+   "status": "unverified",
+   "dataset_id": "maj:BE"
+  },
+  {
+   "name": "Biological Sciences (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/biological-sciences-ba/",
+   "status": "verified",
+   "dataset_id": "maj:BIO"
+  },
+  {
+   "name": "Biological Sciences (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/biological-sciences-bs/",
+   "status": "verified",
+   "dataset_id": "maj:BIO"
+  },
+  {
+   "name": "Biology & Society (BA, BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/biology-society-ba/",
+   "status": "verified",
+   "dataset_id": "maj:BSOC"
+  },
+  {
+   "name": "Biomedical Engineering (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/biomedical-engineering-bs/",
+   "status": "verified",
+   "dataset_id": "maj:BME"
+  },
+  {
+   "name": "Chemical Engineering (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/chemical-engineering-bs/",
+   "status": "verified",
+   "dataset_id": "maj:CHEME"
+  },
+  {
+   "name": "Chemistry (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/chemistry-ba/",
+   "status": "verified",
+   "dataset_id": "maj:CHEM"
+  },
+  {
+   "name": "China and Asia-Pacific Studies (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/china-asia-pacific-studies-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Civil Engineering (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/civil-engineering-bs/",
+   "status": "verified",
+   "dataset_id": "maj:CE"
+  },
+  {
+   "name": "Classics (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/classics-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Cognitive Science (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/cognitive-science-ba/",
+   "status": "verified",
+   "dataset_id": "maj:COGST"
+  },
+  {
+   "name": "College Scholar (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/college-scholar-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Communication (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/communication-bs/",
+   "status": "verified",
+   "dataset_id": "maj:COMM"
+  },
+  {
+   "name": "Comparative Literature (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/comparative-literature-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Computer Science (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/computer-science-ba/",
+   "status": "verified",
+   "dataset_id": "maj:CS"
+  },
+  {
+   "name": "Computer Science (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/computer-science-bs/",
+   "status": "verified",
+   "dataset_id": "maj:CS"
+  },
+  {
+   "name": "Design and Environmental Analysis (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/design-environmental-analysis-bs/",
+   "status": "unverified",
+   "dataset_id": "maj:DEA"
+  },
+  {
+   "name": "Earth and Atmospheric Sciences (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/earth-atmospheric-sciences-ba/",
+   "status": "unverified",
+   "dataset_id": "maj:EAS"
+  },
+  {
+   "name": "Earth and Atmospheric Sciences (BS, CALS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/earth-atmospheric-sciences-easag-bs/",
+   "status": "unverified",
+   "dataset_id": "maj:EAS"
+  },
+  {
+   "name": "Earth and Atmospheric Sciences (BS, Engineering)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/earth-atmospheric-sciences-easen-bs/",
+   "status": "unverified",
+   "dataset_id": "maj:EAS"
+  },
+  {
+   "name": "Economics (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/economics-ba/",
+   "status": "verified",
+   "dataset_id": "maj:ECON"
+  },
+  {
+   "name": "Electrical and Computer Engineering (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/electrical-computer-engineering-bs/",
+   "status": "verified",
+   "dataset_id": "maj:ECE"
+  },
+  {
+   "name": "Engineering Physics (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/engineering-physics-bs/",
+   "status": "unverified",
+   "dataset_id": "maj:EP"
+  },
+  {
+   "name": "English (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/english-ba/",
+   "status": "verified",
+   "dataset_id": "maj:ENGL"
+  },
+  {
+   "name": "Entomology (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/entomology-bs/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Environment & Sustainability (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/environment-sustainability-ba/",
+   "status": "verified",
+   "dataset_id": "maj:ENVS"
+  },
+  {
+   "name": "Environment & Sustainability (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/environment-sustainability-bs/",
+   "status": "verified",
+   "dataset_id": "maj:ENVS"
+  },
+  {
+   "name": "Environmental Engineering (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/environmental-engineering-bs/",
+   "status": "unverified",
+   "dataset_id": "maj:ENV"
+  },
+  {
+   "name": "Fashion Design and Management (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/fashion-design-management-bs/",
+   "status": "unverified",
+   "dataset_id": "maj:FSAD"
+  },
+  {
+   "name": "Feminist, Gender, & Sexuality Studies (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/fgss-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Fiber Science (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/fiber-science-bs/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Fine Arts (BFA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/art-bfa/",
+   "status": "verified",
+   "dataset_id": "maj:BFA"
+  },
+  {
+   "name": "Food Science (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/food-science-bs/",
+   "status": "unverified",
+   "dataset_id": "maj:FDSC"
+  },
+  {
+   "name": "French (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/french-ba/",
+   "status": "verified",
+   "dataset_id": "maj:FREN"
+  },
+  {
+   "name": "German Studies (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/german-studies-ba/",
+   "status": "verified",
+   "dataset_id": "maj:GERST"
+  },
+  {
+   "name": "Global & Public Health Sciences (BS, CALS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/global-public-health-sciences-bs/",
+   "status": "verified",
+   "dataset_id": "maj:GPHS"
+  },
+  {
+   "name": "Global & Public Health Sciences (BS, Human Ecology)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/global-public-health-sciences-hum-ecol-bs/",
+   "status": "verified",
+   "dataset_id": "maj:GPHS"
+  },
+  {
+   "name": "Global Development (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/global-development-bs/",
+   "status": "verified",
+   "dataset_id": "maj:GDEV"
+  },
+  {
+   "name": "Government (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/government-ba/",
+   "status": "verified",
+   "dataset_id": "maj:GOVT"
+  },
+  {
+   "name": "Health Care Policy (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/health-care-policy-major-bs/",
+   "status": "verified",
+   "dataset_id": "maj:HCP"
+  },
+  {
+   "name": "History (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/history-ba/",
+   "status": "verified",
+   "dataset_id": "maj:HIST"
+  },
+  {
+   "name": "History of Architecture and Urban Development (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/history-architecture-urban-development-bs-haud/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "History of Art (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/history-art-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Hotel Administration (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/hotel-management-bs/",
+   "status": "verified",
+   "dataset_id": "maj:HADM"
+  },
+  {
+   "name": "Human Biology, Health, and Society (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/human-biology-health-society-bs/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Human Development (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/human-development-bs/",
+   "status": "verified",
+   "dataset_id": "maj:HD"
+  },
+  {
+   "name": "Independent Major",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/independent-major/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Industrial and Labor Relations (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/industrial-labor-relations-bs/",
+   "status": "verified",
+   "dataset_id": "maj:ILR"
+  },
+  {
+   "name": "Information Science (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/information-science-ba/",
+   "status": "verified",
+   "dataset_id": "maj:INFO"
+  },
+  {
+   "name": "Information Science (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/information-science-bs/",
+   "status": "verified",
+   "dataset_id": "maj:INFO"
+  },
+  {
+   "name": "Information Science, Systems, and Technology (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/information-science-systems-technology-bs/",
+   "status": "verified",
+   "dataset_id": "maj:ISST"
+  },
+  {
+   "name": "Interdisciplinary Studies (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/interdisciplinary-studies-bs/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Italian (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/italian-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Jewish Studies (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/jewish-studies-ba/",
+   "status": "verified",
+   "dataset_id": "maj:JWST"
+  },
+  {
+   "name": "Landscape Architecture (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/landscape-architecture-bs/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Linguistics (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/linguistics-ba/",
+   "status": "unverified",
+   "dataset_id": "maj:LING"
+  },
+  {
+   "name": "Materials Science and Engineering (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/materials-science-engineering-bs/",
+   "status": "unverified",
+   "dataset_id": "maj:MSE"
+  },
+  {
+   "name": "Mathematics (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/mathematics-ba/",
+   "status": "verified",
+   "dataset_id": "maj:MATH"
+  },
+  {
+   "name": "Mechanical Engineering (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/mechanical-engineering-bs/",
+   "status": "verified",
+   "dataset_id": "maj:ME"
+  },
+  {
+   "name": "Music (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/music-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Near Eastern Studies (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/near-eastern-studies-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Nutritional Sciences (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/nutritional-sciences-bs/",
+   "status": "verified",
+   "dataset_id": "maj:NS"
+  },
+  {
+   "name": "Operations Research and Engineering (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/operations-research-engineering-bs/",
+   "status": "verified",
+   "dataset_id": "maj:ORIE"
+  },
+  {
+   "name": "Performing and Media Arts (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/performing-media-arts-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Philosophy (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/philosophy-ba/",
+   "status": "verified",
+   "dataset_id": "maj:PHIL"
+  },
+  {
+   "name": "Physics (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/physics-ba/",
+   "status": "verified",
+   "dataset_id": "maj:PHYS"
+  },
+  {
+   "name": "Plant Sciences (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/plant-sciences-bs/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Policy Analysis and Management (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/policy-analysis-management-bs/",
+   "status": "unverified",
+   "dataset_id": "maj:PAM"
+  },
+  {
+   "name": "Psychology (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/psychology-ba/",
+   "status": "verified",
+   "dataset_id": "maj:PSYCH"
+  },
+  {
+   "name": "Public Policy (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/public-policy-ba/",
+   "status": "verified",
+   "dataset_id": "maj:PPBA"
+  },
+  {
+   "name": "Public Policy (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/public-policy-bs/",
+   "status": "verified",
+   "dataset_id": "maj:PUBPOL"
+  },
+  {
+   "name": "Religious Studies (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/religious-studies-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Science & Technology Studies (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/science-technology-studies-ba/",
+   "status": "unverified",
+   "dataset_id": "maj:STS"
+  },
+  {
+   "name": "Sociology (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/sociology-ba/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Spanish (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/spanish-ba/",
+   "status": "verified",
+   "dataset_id": "maj:SPAN"
+  },
+  {
+   "name": "Statistical Science (BA)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/statistics-data-science-ba/",
+   "status": "verified",
+   "dataset_id": "maj:STSCI"
+  },
+  {
+   "name": "Statistics & Biometry (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/biometry-statistics-bs/",
+   "status": "verified",
+   "dataset_id": "maj:STSCI"
+  },
+  {
+   "name": "Urban and Regional Studies (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/urban-regional-studies-bs-urs/",
+   "status": "verified",
+   "dataset_id": "maj:URS"
+  },
+  {
+   "name": "Viticulture and Enology (BS)",
+   "type": "major",
+   "catalog_url": "https://catalog.cornell.edu/programs/viticulture-enology-bs/",
+   "status": "unverified",
+   "dataset_id": "maj:VIEN"
+  },
+  {
+   "name": "Actuarial Science",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/actuarial-science-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Aerospace Engineering",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/aerospace-engineering-minor/",
+   "status": "unverified",
+   "dataset_id": "min:AEROSPACE"
+  },
+  {
+   "name": "Africana Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/africana-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "American Indian and Indigenous Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/american-indian-indigenous-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "ASL/Deaf Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/asl-deaf-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "American Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/american-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Animal Science",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/animal-science-minor/",
+   "status": "unverified",
+   "dataset_id": "min:ANIMALSCIENCE"
+  },
+  {
+   "name": "Anthropology",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/anthropology-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Applied Economics",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/applied-economics-minor/",
+   "status": "verified",
+   "dataset_id": "min:APPLIEDECON"
+  },
+  {
+   "name": "Applied Exercise Science",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/applied-exercise-science-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Applied Mathematics",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/applied-mathematics-minor/",
+   "status": "unverified",
+   "dataset_id": "min:APPLIEDMATH"
+  },
+  {
+   "name": "Arabic",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/arabic-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Archaeology",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/archaeology-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Architecture",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/architecture-minor-for-non-departmental-students/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Artificial Intelligence",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/artificial-intelligence-minor/",
+   "status": "verified",
+   "dataset_id": "min:AI"
+  },
+  {
+   "name": "Asian American Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/asian-american-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Astrobiology",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/astrobiology-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Astronomy",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/astronomy-minor/",
+   "status": "unverified",
+   "dataset_id": "min:ASTRO"
+  },
+  {
+   "name": "Atmospheric Sciences",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/atmospheric-science-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Biological Engineering",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/biological-engineering-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Biological Sciences",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/biological-sciences-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Biomedical Engineering",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/biomedical-engineering-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Biometry and Statistics",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/biometry-statistics-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Business",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/business-minor/",
+   "status": "verified",
+   "dataset_id": "min:BU"
+  },
+  {
+   "name": "Business for Engineers",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/dyson-business-minor-engineers/",
+   "status": "unverified",
+   "dataset_id": "min:DBME"
+  },
+  {
+   "name": "Business for Life Sciences",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/dyson-business-minor-life-sciences/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Caribbean Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/caribbean-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "China and Asia-Pacific Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/china-asia-pacific-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Civil Infrastructure",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/civil-infrastructure-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Classical Civilization",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/classical-civilization-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Classics",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/classics-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Climate Change",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/climate-change-minor/",
+   "status": "unverified",
+   "dataset_id": "min:CLIMATECHANGE"
+  },
+  {
+   "name": "Cognitive Science",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/cognitive-science-minor/",
+   "status": "unverified",
+   "dataset_id": "min:COGSCI"
+  },
+  {
+   "name": "Communication",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/communications-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Community Food Systems",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/community-food-systems-minor-cfs/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Comparative Literature",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/comparative-literature-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Computer Science",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/computer-science-minor/",
+   "status": "verified",
+   "dataset_id": "min:CS"
+  },
+  {
+   "name": "Creative Writing",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/creative-writing-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Crime, Prisons, Education, and Justice",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/crime-prisons-education-justice-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Crop Management",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/crop-management-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Dance",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/dance-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Data Science in Astronomy",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/data-science-astronomy-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Data Science",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/data-science-minor/",
+   "status": "verified",
+   "dataset_id": "min:DS"
+  },
+  {
+   "name": "Demography",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/demography-minor/",
+   "status": "verified",
+   "dataset_id": "min:DEMOG"
+  },
+  {
+   "name": "Design and Environmental Analysis",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/design-environmental-analysis-minor/",
+   "status": "unverified",
+   "dataset_id": "min:DEA"
+  },
+  {
+   "name": "Design Innovation and Strategy",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/design-innovation-strategy-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Earth and Atmospheric Sciences",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/earth-atmospheric-sciences-minor/",
+   "status": "unverified",
+   "dataset_id": "min:EAS"
+  },
+  {
+   "name": "East Asian Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/east-asian-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Education",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/education-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Electrical and Computer Engineering",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/electrical-computer-engineering-minor/",
+   "status": "unverified",
+   "dataset_id": "min:ECE"
+  },
+  {
+   "name": "Engineering Communications",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/engineering-communications-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Engineering Entrepreneurship",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/engineering-entrepreneurship-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Engineering Management",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/engineering-management-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "English",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/english-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Entomology",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/entomology-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Entrepreneurship",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/entrepreneurship-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Environment & Sustainability",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/environment-sustainability-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Environmental Engineering",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/environmental-engineering-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "European Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/european-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Fashion Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/fashion-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Feminist, Gender, & Sexuality Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/fgss-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Fiber Science",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/fiber-science-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Film",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/film-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Fine Arts",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/fine-arts-minor-for-non-departmental-students/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Food and Agricultural Business",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/food-agricultural-business-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Food Science",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/food-science-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "French Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/french-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Fungal Biology",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/fungal-biology-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Game Design",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/game-design-minor/",
+   "status": "unverified",
+   "dataset_id": "min:GAMEDESIGN"
+  },
+  {
+   "name": "German Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/german-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Gerontology",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/gerontology-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Global Asia Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/global-asia-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Global Development",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/global-development-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Global Health",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/global-health-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Health Policy",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/health-policy-minor/",
+   "status": "unverified",
+   "dataset_id": "min:HP"
+  },
+  {
+   "name": "Healthy Futures",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/healthy-futures-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "History",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/history-minor/",
+   "status": "verified",
+   "dataset_id": "min:HISTM"
+  },
+  {
+   "name": "History of Art",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/history-art-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "History of Capitalism",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/history-capitalism-interdisciplinary-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Horticulture",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/horticulture-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Human Development",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/human-development-minor/",
+   "status": "unverified",
+   "dataset_id": "min:HD"
+  },
+  {
+   "name": "Inequality Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/inequality-studies-minor/",
+   "status": "unverified",
+   "dataset_id": "min:INEQ"
+  },
+  {
+   "name": "Information Science",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/information-science-minor/",
+   "status": "unverified",
+   "dataset_id": "min:ISST"
+  },
+  {
+   "name": "International Markets and Development",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/international-markets-development-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "International Relations",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/international-relations-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Italian",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/italian-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Jewish Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/jewish-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Latin American Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/latin-american-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Latina/o Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/latina-o-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Law & Society",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/law-society-minor/",
+   "status": "verified",
+   "dataset_id": "min:LAWSOC"
+  },
+  {
+   "name": "Leadership",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/leadership-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Lesbian, Gay, Bisexual, & Transgender",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/lgbt-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Linguistics",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/linguistics-minor/",
+   "status": "unverified",
+   "dataset_id": "min:LING"
+  },
+  {
+   "name": "Materials Science and Engineering",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/materials-science-engineering-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Mathematics",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/mathematics-minor/",
+   "status": "unverified",
+   "dataset_id": "min:MATH"
+  },
+  {
+   "name": "Mechanical Engineering",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/mechanical-engineering-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Media Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/media-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Medieval Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/medieval-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Migration Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/migration-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Minority, Indigenous, and Third World Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/mitws-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Moral Psychology",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/moral-psychology-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Music",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/music-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Near Eastern Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/near-eastern-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Nutrition and Health",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/nutrition-health-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Operations Research and Management Science",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/operations-research-management-science-minor/",
+   "status": "unverified",
+   "dataset_id": "min:ORMS"
+  },
+  {
+   "name": "Performing and Media Arts",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/performing-media-arts-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Philosophy",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/philosophy-minor/",
+   "status": "unverified",
+   "dataset_id": "min:PHIL"
+  },
+  {
+   "name": "Physics",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/physics-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Plant Breeding",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/plant-breeding-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Plant Sciences",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/plant-sciences-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Policy Analysis and Management",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/policy-analysis-management-minor/",
+   "status": "verified",
+   "dataset_id": "min:PAM"
+  },
+  {
+   "name": "Portuguese and Brazilian Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/portuguese-brazilian-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Psychology",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/psychology-minor/",
+   "status": "verified",
+   "dataset_id": "min:PSYCH"
+  },
+  {
+   "name": "Public History",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/public-history-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Public Policy",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/public-policy-minor/",
+   "status": "verified",
+   "dataset_id": "min:POLICY"
+  },
+  {
+   "name": "Public Service Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/public-service-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Real Estate (for Nolan)",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/real-estate-minor-nolan-school-ug-students/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Real Estate (for non-Nolan)",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/real-estate-minor-non-nolan-ug-students/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Religious Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/religious-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Robotics",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/robotics-minor/",
+   "status": "unverified",
+   "dataset_id": "min:ROBOTICS"
+  },
+  {
+   "name": "Russian",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/russian-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Sanskrit Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/sanskrit-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Science & Technology Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/science-technology-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Science Communication and Public Engagement",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/science-communication-public-engagement-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Smart Cities",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/smart-cities-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Soil Science",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/soil-science-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "South Asian Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/south-asian-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Southeast Asian Studies",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/southeast-asian-studies-minor/",
+   "status": "missing",
+   "dataset_id": null
+  },
+  {
+   "name": "Spanish",
+   "type": "minor",
+   "catalog_url": "https://catalog.cornell.edu/programs/spanish-minor/",
+   "status": "unverified",
+   "dataset_id": "min:SPAN"
+  }
+ ],
+ "in_dataset_but_not_in_index": [
+  {
+   "id": "min:ECONILR",
+   "status": "unverified"
+  }
+ ]
+}
